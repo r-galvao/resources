@@ -1,0 +1,17 @@
+[
+  {
+    "label":"Instagram",
+    "icon":"https://raw.githubusercontent.com/r-galvao/web-site/master/assets/icons/instagram.svg",
+    "link":"https://instagram.com/sulprog"
+  },
+  {
+    "label":"Facebook",
+    "icon":"https://raw.githubusercontent.com/r-galvao/web-site/master/assets/icons/facebook.svg",
+    "link":"https://facebook.com/sulprog"
+  },
+  {
+    "label":"Twitter",
+    "icon":"https://raw.githubusercontent.com/r-galvao/web-site/master/assets/icons/twitter.svg",
+    "link":"https://twitter.com/sulprog"
+  }
+]

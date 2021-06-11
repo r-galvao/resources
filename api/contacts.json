@@ -1,0 +1,27 @@
+[
+  {
+    "title":"Canal do YouTube",
+    "label":"youtube.com/SulProg",
+    "link":"https://youtube.com/wdevoficial"
+  },
+  {
+    "title":"Instagram",
+    "label":"instagram.com/SulProg",
+    "link":"https://instagram.com/sulprog"
+  },
+  {
+    "title":"Facebook",
+    "label":"facebook.com/SulProg",
+    "link":"https://facebook.com/sulprog"
+  },
+  {
+    "title":"Twitter",
+    "label":"twitter.com/SulProg",
+    "link":"https://twitter.com/sulprog"
+  },
+  {
+    "title":"E-mail",
+    "label":"sulprog@gmail.com",
+    "link":"mailto:sulprog@gmail.com"
+  }
+]
